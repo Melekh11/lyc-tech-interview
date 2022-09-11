@@ -1,6 +1,9 @@
 task2_ans.py
 task3_ans.py
 task4_ans.py
+task5_ans.py
 task1.py
+ans.txt
 .idea
 venv
+__pycache__/
